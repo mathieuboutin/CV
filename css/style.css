@@ -178,13 +178,6 @@ aside {
       height: 5px;
       background: var(--hint);
       position: relative; }
-      aside .block .bar-skill:hover .score {
-        display: block;
-        position: absolute;
-        background: white;
-        top: -20px;
-        width: 40px;
-        color: var(--text); }
       aside .block .bar-skill .bar-skill-progress {
         position: absolute;
         height: 5px;
